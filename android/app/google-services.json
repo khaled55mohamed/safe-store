@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "695422052321",
+    "project_id": "safe-store-v1",
+    "storage_bucket": "safe-store-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695422052321:android:055a2c890e9a1781a414a0",
+        "android_client_info": {
+          "package_name": "com.khaled.gad.safe_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695422052321-oqharltg5mbdd18q7pfdtnm402bl98uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaled.gad.safe_store",
+            "certificate_hash": "9dfa259dc19442b6cda3a8910664c3bef4a03d4d"
+          }
+        },
+        {
+          "client_id": "695422052321-cdbotdgem8ql4f68lb5sknhqhcru4sov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk4vF61CRejvBRugdeh_O6-wnt8OOe7k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695422052321-cdbotdgem8ql4f68lb5sknhqhcru4sov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
